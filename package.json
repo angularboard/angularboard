@@ -1,0 +1,29 @@
+{
+  "name": "angularboard",
+  "version": "0.0.0",
+  "description": "Angular Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angularboard/angularboard.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "dashboard",
+    "charts",
+    "tables",
+    "control",
+    "configuration",
+    "tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angularboard/angularboard/issues"
+  },
+  "homepage": "https://github.com/angularboard/angularboard"
+}

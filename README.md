@@ -12,3 +12,4 @@ Help & Resources
 - AngularJS Cheat Sheet http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 - Metrics Graphics http://metricsgraphicsjs.org/examples.htm
 - Node debugger and profiler https://github.com/newton-software/devil
+- JavaScript Charts V3 http://www.amcharts.com/
